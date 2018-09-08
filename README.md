@@ -1,0 +1,1 @@
+I created this application to train my programming learning and improvise python-based programming, I will upload this project update and correct code errors and code bugs, because I am still very common in programming and algorithms :D, maybe after learning basic python I will continue right this program goes to the python OOP stage    Warm regards ~ RansomBroker
