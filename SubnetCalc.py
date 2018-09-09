@@ -38,5 +38,17 @@ def goToBit(netmask):
 		convert_to_bin = bin(i)[2:]
 		mask_in_bit_length.append(convert_to_bin)
 
-netMask(30)
+def ipAddress():
+	addr = input('enter ip addres and cidr : ' )
+	a = addr.split("/")
+	return a
+	
+def cidr(ip):
+	cidr = ipAddress()
+	cidr = cidr[1]
+	return cidr
 
+
+a = ipAddress()
+b = cidr(a)
+c = netMask(b)
